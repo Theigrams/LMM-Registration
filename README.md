@@ -1,6 +1,6 @@
 # Robust Multi-view Registration of Point Sets with Laplacian Mixture Model
 
-![teaser](assets/teaser.png)
+<p align="center"><img src="assets/teaser.png" width="70%"></p>
 
 MATLAB implementation of our ACPR 2021 paper
 ([Springer](https://link.springer.com/book/10.1007/978-981-95-4395-3)). Given
