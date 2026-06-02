@@ -30,7 +30,7 @@ colour) and a cross-section through it. Switch solver at the top of `demo.m`.
 
 | 3-D synthesized model | Cross section |
 | :-------------------: | :-----------: |
-| ![aligned](assets/aligned_model.png) | ![cross](assets/cross_section.png) |
+| <img src="assets/aligned_model.png" height="300"> | <img src="assets/cross_section.png" height="300"> |
 
 On your own data:
 
